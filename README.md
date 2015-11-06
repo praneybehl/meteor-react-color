@@ -9,7 +9,7 @@ React Color Pickers with 7 themes - Sketch, Chrome, Photoshop, Slider, Compact, 
 
 * **Make Your Own** - Use the building block components to make your own
 
-![Sketch and Photoshop Color Picker Built in React](/ss.png)
+![Sketch and Photoshop Color Picker Built in React](./ss.png)
 
 This package is a wrapper around [React-Color](https://github.com/casesandberg/react-color)
 
