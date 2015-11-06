@@ -1,7 +1,7 @@
 Package.describe({
   name: 'praneybehl:react-color',
   version: '1.2.1',
-  summary: 'React Color Pickers with 7 themes - Sketch Chrome Photoshop Slider Compact Material & Swatches packaged for Meteor',
+  summary: 'React Color Pickers with 7 themes - Sketch Chrome Photoshop Material & more',
   git: 'https://github.com/praneybehl/meteor-react-color',
   documentation: 'README.md'
 });
